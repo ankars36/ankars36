@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Connect with me:
+
+Languages and Tools:
 <a href="https://dotnet.microsoft.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://angular.io" rel="nofollow"> <img src="https://camo.githubusercontent.com/8886130b3d8aba95dbdd7c4f9a41029606424cc06d1873c1ced87dd55a222fef/68747470733a2f2f616e67756c61722e696f2f6173736574732f696d616765732f6c6f676f732f616e67756c61722f616e67756c61722e737667" alt="angular" width="40" height="40" data-canonical-src="https://angular.io/assets/images/logos/angular/angular.svg" style="max-width: 100%;"> </a>
 <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a>
@@ -8,6 +11,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gncyyldz&layout=compact"/>
 
-Connect with me:
 
-Languages and Tools:
+
+
