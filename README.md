@@ -3,6 +3,7 @@
 
 <h3 align="left" dir="auto">Connect with me:</h3>
 <p align="left" dir="auto">
+<a href="https://linkedin.com/in/emre-yildiz-00091a141/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emre-yildiz-00091a141/" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://instagram.com/yildzemre" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yildzemre" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 
