@@ -21,6 +21,10 @@
 </a>
 <a href="https://www.postgresql.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;"> 
 </a>
+<a href="https://www.oracle.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" style="max-width: 100%;">
+</a>
+<a href="https://redis.io" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" style="max-width: 100%;">
+</a>
 </p>
 
 
