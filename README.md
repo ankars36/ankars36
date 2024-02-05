@@ -1,5 +1,5 @@
 <h1 align="center" dir="auto">Hello 👋, I am Emre YILDIZ 💫</h1>
-<h3 align="center" dir="auto">Writing code is an art...</h3>
+<h3 align="center" dir="auto">Coding is an art...</h3>
 
 <h3 align="left" dir="auto">Connect with me:</h3>
 <p align="left" dir="auto">
