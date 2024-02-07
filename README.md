@@ -13,6 +13,7 @@
 <a href="https://dotnet.microsoft.com/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40" style="max-width: 100%;"> 
 </a>
 <a href="https://www.w3schools.com/cs/" rel="nofollow"> <img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://wordpress.com/" rel="nofollow"> <img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://angular.io" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="40" height="40" style="max-width: 100%;"> 
 </a>
 <a href="https://material.angular.io/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" alt="angularmaterial" width="40" height="40" style="max-width: 100%;"> 
