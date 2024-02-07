@@ -15,9 +15,13 @@
 <a href="https://www.w3schools.com/cs/" rel="nofollow"> <img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://angular.io" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="40" height="40" style="max-width: 100%;"> 
 </a>
+<a href="https://material.angular.io/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" alt="angularmaterial" width="40" height="40" style="max-width: 100%;"> 
+</a>
 <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> 
 </a> 
-<a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">
+<a href="https://www.w3schools.com/html/default.asp" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">
+</a>
+<a href="https://www.w3schools.com/css/default.asp" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;">
 </a>
 <a href="https://www.microsoft.com/en-us/sql-server" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="mssql" width="40" height="40" style="max-width: 100%;">
 </a>
@@ -26,6 +30,8 @@
 <a href="https://www.oracle.com/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" style="max-width: 100%;">
 </a>
 <a href="https://redis.io" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" style="max-width: 100%;">
+</a>
+<a href="https://www.docker.com/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="max-width: 100%;">
 </a>
 </p>
 
